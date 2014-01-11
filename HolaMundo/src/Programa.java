@@ -3,7 +3,9 @@ public class Programa {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola Mundo");
+		//Creo una variable de tipo string
+		String a= "Hola Mundo";
+		System.out.println(a);
 	}
 
 }
